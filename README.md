@@ -23,4 +23,4 @@ Ce projet a été réalisé dans le cadre d’un stage et comprend la conception
 **Lounis Ammiche**
 2024/2025
 
-## Confidentialité des données.
+Confidentialité des données
